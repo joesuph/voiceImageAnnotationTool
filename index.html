@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Voice Image Annotator</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <form>
+            <input type="file" name="image" onchange="saveImages(this)" accept="image/*" multiple>
+        </form>
+
+
+        <h2 id='inter'>Upload some images that you would like to annotate</h2>
+        <img style="display:'none'" id='img' height='300px' accept="image/*">
+
+
+        <div id='label_div'></div>
+        <div id='imageNameDiv'></div>
+        <script src='script.js'></script>
+    </body>
+
+</html>

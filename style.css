@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(216, 226, 231);
+}
+
+form{
+    text-align:center;
+}
+input{
+    margin:auto;
+    align-self: center;
+    background-color: green;
+    border:1px solid black;
+}
+
+#inter{
+    text-align: center;
+
+}
+
+img{
+    display:block;
+    margin:auto;
+}
+
+#label_div{
+    width:75%;
+    margin: auto;
+    margin-bottom: 2em;
+    border:1px solid black;
+    border-radius: 10px;
+}
+#imageNameDiv{
+    width:75%;
+    margin: auto;
+    margin-bottom: 2em;
+    border:1px solid black;
+    border-radius: 10px;
+}
