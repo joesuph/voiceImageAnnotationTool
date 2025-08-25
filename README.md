@@ -1,2 +1,4 @@
 # voiceImageAnnotationTool
-This is application takes images from the user, and cycles through them while allowing the user to label each one when something the say. Once finished the labels and filenames and displayed in the boxes below.
+This is application takes images from the user and displays the images one by one to the user and listens for a label and moves onto the next once the user says something. 
+
+Once finished the labels and filenames and displayed in the boxes below.
